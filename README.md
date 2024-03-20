@@ -1,5 +1,4 @@
-# 수정중
-# Resume of Sehee
+# Portfolio of Sehee
 
 ## 1.Outline
 ### 1.1 Profile

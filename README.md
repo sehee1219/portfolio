@@ -37,7 +37,7 @@
 
 | 프로젝트 이름                                            | 기술      | 모델         |
 |----------------------------------------------------------|-----------|---------------|
-| 트위터 데이터 감정 분석                                   | Python, TensorFlow  | 예정          |
+| [트위터 데이터 감정분석 소스 코드](https://github.com/tpglgk/Project/blob/main/Tweetemotion.ipynb)                            | Python, TensorFlow  | 예정          |
 | 코스피 지수를 이용한 음주운전 예측 모델                  | Python, TensorFlow | 예정  |
 | 헬멧 세그멘테이션 모델                                   | Python, TensorFlow | 예정  |
 | 거북목 자세 교정 모델                                    | Python, TensorFlow | 예정  |

@@ -1,6 +1,7 @@
 # Portfolio of Sehee
 
 ## 1.Outline
+
 ### 1.1 Profile
 이름: 하세희
 * 생년월일: 2002-
